@@ -51,7 +51,7 @@ export function Navbar({ page, go, favCount }) {
             </button>
           ))}
           <button onClick={() => { go("sell"); setOpen(false); }} className="w-full mt-2 bg-emerald-600 text-white text-sm font-semibold px-4 py-2.5 rounded-lg">
-            Submit Property
+            Submit Property And Try Again
           </button>
         </div>
       )}
