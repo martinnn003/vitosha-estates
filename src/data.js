@@ -30,8 +30,8 @@ export const PROPERTIES = [
 ];
 
 export const AGENTS = [
-  { id: 1, name: "Elena Petrova", role: "Senior Partner · Luxury Homes", img: "https://randomuser.me/api/portraits/women/44.jpg", listings: 34, rating: 4.9, deals: 210, phone: "+359 88 511 2340", gradient: "from-emerald-700 to-slate-900" },
-  { id: 2, name: "Martin Dimitrov", role: "Head of Residential Sales", img: "https://randomuser.me/api/portraits/men/32.jpg", listings: 27, rating: 4.8, deals: 168, phone: "+359 88 733 9021", gradient: "from-amber-700 to-slate-900" },
+  { id: 1, name: "Elena Petrova", role: "Senior Partner · Luxury Homes", img: "https://randomuser.me/api/portraits/women/44.jpg", listings: 50, rating: 5, deals: 210, phone: "+359 88 511 2340", gradient: "from-emerald-700 to-slate-900" },
+  { id: 2, name: "Martin Dimitrov", role: "Head of Residential Sales", img: "https://randomuser.me/api/portraits/men/32.jpg", listings: 35, rating: 4.8, deals: 168, phone: "+359 88 733 9021", gradient: "from-amber-700 to-slate-900" },
   { id: 3, name: "Sofia Ivanova", role: "Rentals & Relocation Lead", img: "https://randomuser.me/api/portraits/women/68.jpg", listings: 41, rating: 5.0, deals: 305, phone: "+359 87 640 5518", gradient: "from-slate-600 to-slate-900" },
   { id: 4, name: "Alexander Georgiev", role: "Investment Advisory", img: "https://randomuser.me/api/portraits/men/76.jpg", listings: 19, rating: 4.7, deals: 122, phone: "+359 89 902 6674", gradient: "from-teal-700 to-slate-900" },
 ];
