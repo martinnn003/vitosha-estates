@@ -3,3 +3,6 @@ dist
 .env
 .DS_Store
 *.local
+chat-history.md
+.claude/chat-history-state.json
+.claude/settings.local.json
